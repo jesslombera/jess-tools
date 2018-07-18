@@ -1,0 +1,12 @@
+{
+  "name": "jessica-tools/ac_api_v3_wrapper",
+  "description": "ActiveCampaign API PHP v3 wrapper tests",
+  "repositories": [
+    {"type": "composer", "url": "https://repo.packagist.com/activecampaign/"},
+    {"packagist.org": false}
+  ],
+  "require": {
+    "ActiveCampaign/api": "^0.5",
+    "nesbot/carbon": "^1.22"
+  }
+}
